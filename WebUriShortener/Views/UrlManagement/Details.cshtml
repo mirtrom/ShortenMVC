@@ -1,0 +1,175 @@
+﻿@model UrlDetailsViewModel
+
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+    <br />
+    <div class="container">
+        <div class="card">
+            <div class="card-header bg-secondary text-light ml-0">
+                <div class="container row">
+                    <div class="col-12 d-none d-md-block col-md-6 pb-1">
+                        <i class="fas fa-globe"></i> &nbsp; URL Details
+                    </div>
+                    <div class="col-12 col-md-4 offset-md-2 text-right">
+                        <a asp-action="Index" class="btn btn-outline-dark form-control btn-sm">Back to URLs</a>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="container rounded p-2">
+                    <div class="row">
+                        <div class="col-12 pb-4">
+                                <h4 class="d-flex justify-content-between align-items-center col-12 text-center">
+                                    <span class="text-dark">URL Details:</span>
+                                </h4>
+                            <div class="row my-1">
+                                <div class="col-3">Long URL</div>
+                                <div class="col-9">
+                                    <input asp-for="LongUrl" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Short URL</div>
+                                <div class="col-9">
+                                    <input asp-for="ShortUrl" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Creation Date</div>
+                                <div class="col-9">
+                                    <input value="@Model.CreationDate.ToString("yyyy-MM-dd HH:mm:ss")" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Absolute Path</div>
+                                <div class="col-9">
+                                    <input asp-for="AbsolutePath" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Absolute URI</div>
+                                <div class="col-9">
+                                    <input asp-for="AbsoluteUri" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">DNS Safe Host</div>
+                                <div class="col-9">
+                                    <input asp-for="DnsSafeHost" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Fragment</div>
+                                <div class="col-9">
+                                    <input asp-for="Fragment" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Host</div>
+                                <div class="col-9">
+                                    <input asp-for="Host" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Host Name Type</div>
+                                <div class="col-9">
+                                    <input asp-for="HostNameType" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">IDN Host</div>
+                                <div class="col-9">
+                                    <input asp-for="IdnHost" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Is Absolute URI</div>
+                                <div class="col-9">
+                                    <input asp-for="IsAbsoluteUri" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Is Default Port</div>
+                                <div class="col-9">
+                                    <input asp-for="IsDefaultPort" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Is File</div>
+                                <div class="col-9">
+                                    <input asp-for="IsFile " readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Is Loopback</div>
+                                <div class="col-9">
+                                    <input asp-for="IsLoopback" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Is UNC</div>
+                                <div class="col-9">
+                                    <input asp-for="IsUnc" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Local Path</div>
+                                <div class="col-9">
+                                    <input asp-for="LocalPath" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Original String</div>
+                                <div class="col-9">
+                                    <input asp-for="OriginalString" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Path and Query</div>
+                                <div class="col-9">
+                                    <input asp-for="PathAndQuery" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Port</div>
+                                <div class="col-9">
+                                    <input asp-for="Port" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Query</div>
+                                <div class="col-9">
+                                    <input asp-for="Query" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Scheme</div>
+                                <div class="col-9">
+                                    <input asp-for="Scheme" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">Segments</div>
+                                <div class="col-9">
+                                    <input asp-for="Segments" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">User Escaped</div>
+                                <div class="col-9">
+                                    <input asp-for="UserEscaped" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                            <div class="row my-1">
+                                <div class="col-3">User Info</div>
+                                <div class="col-9">
+                                    <input asp-for="UserInfo" readonly type="text" class="form-control" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

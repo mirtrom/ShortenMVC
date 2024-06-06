@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\weburishortener\\views\\urlmanagement\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|solutionrelative:weburishortener\\views\\urlmanagement\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\weburishortener\\controllers\\urlmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|solutionrelative:weburishortener\\controllers\\urlmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67CACB5-E97F-4715-9C65-45EDA7D62CB6}|BLL\\BLL.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\bll\\models\\viewmodels\\urldetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67CACB5-E97F-4715-9C65-45EDA7D62CB6}|BLL\\BLL.csproj|solutionrelative:bll\\models\\viewmodels\\urldetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67CACB5-E97F-4715-9C65-45EDA7D62CB6}|BLL\\BLL.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\bll\\interfaces\\iurlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67CACB5-E97F-4715-9C65-45EDA7D62CB6}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\iurlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\weburishortener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|solutionrelative:weburishortener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\weburishortener\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|solutionrelative:weburishortener\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67CACB5-E97F-4715-9C65-45EDA7D62CB6}|BLL\\BLL.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\bll\\utilities\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67CACB5-E97F-4715-9C65-45EDA7D62CB6}|BLL\\BLL.csproj|solutionrelative:bll\\utilities\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B818E1-A87A-4F95-ACD9-EF63CD40E689}|DAL\\DAL.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\dal\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B818E1-A87A-4F95-ACD9-EF63CD40E689}|DAL\\DAL.csproj|solutionrelative:dal\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\weburishortener\\wwwroot\\js\\urls.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|solutionrelative:weburishortener\\wwwroot\\js\\urls.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67CACB5-E97F-4715-9C65-45EDA7D62CB6}|BLL\\BLL.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\bll\\services\\urlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67CACB5-E97F-4715-9C65-45EDA7D62CB6}|BLL\\BLL.csproj|solutionrelative:bll\\services\\urlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67CACB5-E97F-4715-9C65-45EDA7D62CB6}|BLL\\BLL.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\bll\\utilities\\shortenlinkgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67CACB5-E97F-4715-9C65-45EDA7D62CB6}|BLL\\BLL.csproj|solutionrelative:bll\\utilities\\shortenlinkgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\weburishortener\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|solutionrelative:weburishortener\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B818E1-A87A-4F95-ACD9-EF63CD40E689}|DAL\\DAL.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\dal\\interfaces\\iurlmanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B818E1-A87A-4F95-ACD9-EF63CD40E689}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iurlmanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B818E1-A87A-4F95-ACD9-EF63CD40E689}|DAL\\DAL.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\dal\\repositories\\urlmanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B818E1-A87A-4F95-ACD9-EF63CD40E689}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\urlmanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\weburishortener\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|solutionrelative:weburishortener\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B818E1-A87A-4F95-ACD9-EF63CD40E689}|DAL\\DAL.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\dal\\models\\urlmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B818E1-A87A-4F95-ACD9-EF63CD40E689}|DAL\\DAL.csproj|solutionrelative:dal\\models\\urlmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\weburishortener\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|solutionrelative:weburishortener\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67CACB5-E97F-4715-9C65-45EDA7D62CB6}|BLL\\BLL.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\bll\\models\\urlmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67CACB5-E97F-4715-9C65-45EDA7D62CB6}|BLL\\BLL.csproj|solutionrelative:bll\\models\\urlmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\weburishortener\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|solutionrelative:weburishortener\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\weburishortener\\views\\urlmanagement\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|solutionrelative:weburishortener\\views\\urlmanagement\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\weburishortener\\views\\urlmanagement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|solutionrelative:weburishortener\\views\\urlmanagement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67CACB5-E97F-4715-9C65-45EDA7D62CB6}|BLL\\BLL.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\bll\\models\\viewmodels\\urivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67CACB5-E97F-4715-9C65-45EDA7D62CB6}|BLL\\BLL.csproj|solutionrelative:bll\\models\\viewmodels\\urivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\weburishortener\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|solutionrelative:weburishortener\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\weburishortener\\weburishortener.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|solutionrelative:weburishortener\\weburishortener.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|c:\\users\\misha\\source\\repos\\shortenmvc\\weburishortener\\views\\urlmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA400911-2470-453F-861B-76EE11F7573E}|WebUriShortener\\WebUriShortener.csproj|solutionrelative:weburishortener\\views\\urlmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "urls.js",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\wwwroot\\js\\urls.js",
+              "RelativeDocumentMoniker": "WebUriShortener\\wwwroot\\js\\urls.js",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\wwwroot\\js\\urls.js",
+              "RelativeToolTip": "WebUriShortener\\wwwroot\\js\\urls.js",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwBoAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-06T09:54:24.442Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Views\\UrlManagement\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebUriShortener\\Views\\UrlManagement\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Views\\UrlManagement\\Details.cshtml",
+              "RelativeToolTip": "WebUriShortener\\Views\\UrlManagement\\Details.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T12:26:25.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UrlDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\BLL\\Models\\ViewModels\\UrlDetailVM.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\ViewModels\\UrlDetailVM.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\BLL\\Models\\ViewModels\\UrlDetailVM.cs",
+              "RelativeToolTip": "BLL\\Models\\ViewModels\\UrlDetailVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAywA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:25:21.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\BLL\\Utilities\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "BLL\\Utilities\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\BLL\\Utilities\\AutoMapperProfile.cs",
+              "RelativeToolTip": "BLL\\Utilities\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:14:12.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\DAL\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\Context.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\DAL\\Data\\Context.cs",
+              "RelativeToolTip": "DAL\\Data\\Context.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:13:57.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\appsettings.json",
+              "RelativeDocumentMoniker": "WebUriShortener\\appsettings.json",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\appsettings.json",
+              "RelativeToolTip": "WebUriShortener\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T12:03:58.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Program.cs",
+              "RelativeDocumentMoniker": "WebUriShortener\\Program.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Program.cs",
+              "RelativeToolTip": "WebUriShortener\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwBoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:32:48.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUrlService.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\BLL\\Interfaces\\IUrlService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IUrlService.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\BLL\\Interfaces\\IUrlService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IUrlService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:27:37.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UrlManagementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\DAL\\Repositories\\UrlManagementRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\UrlManagementRepository.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\DAL\\Repositories\\UrlManagementRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\UrlManagementRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:26:08.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUrlManagementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\DAL\\Interfaces\\IUrlManagementRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IUrlManagementRepository.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\DAL\\Interfaces\\IUrlManagementRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IUrlManagementRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:25:44.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebUriShortener\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebUriShortener\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvyUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:18:09.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Views\\UrlManagement\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebUriShortener\\Views\\UrlManagement\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Views\\UrlManagement\\Delete.cshtml",
+              "RelativeToolTip": "WebUriShortener\\Views\\UrlManagement\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T11:08:37.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UrlService.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\BLL\\Services\\UrlService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UrlService.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\BLL\\Services\\UrlService.cs",
+              "RelativeToolTip": "BLL\\Services\\UrlService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwDQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:07:10.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebUriShortener\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebUriShortener\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T10:49:00.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UriVM.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\BLL\\Models\\ViewModels\\UriVM.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\ViewModels\\UriVM.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\BLL\\Models\\ViewModels\\UriVM.cs",
+              "RelativeToolTip": "BLL\\Models\\ViewModels\\UriVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:46:28.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Views\\UrlManagement\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebUriShortener\\Views\\UrlManagement\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Views\\UrlManagement\\Create.cshtml",
+              "RelativeToolTip": "WebUriShortener\\Views\\UrlManagement\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T10:36:22.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShortenLinkGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\BLL\\Utilities\\ShortenLinkGenerator.cs",
+              "RelativeDocumentMoniker": "BLL\\Utilities\\ShortenLinkGenerator.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\BLL\\Utilities\\ShortenLinkGenerator.cs",
+              "RelativeToolTip": "BLL\\Utilities\\ShortenLinkGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:29:11.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WebUriShortener.csproj",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\WebUriShortener.csproj",
+              "RelativeDocumentMoniker": "WebUriShortener\\WebUriShortener.csproj",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\WebUriShortener.csproj",
+              "RelativeToolTip": "WebUriShortener\\WebUriShortener.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T10:25:29.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebUriShortener\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebUriShortener\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T10:25:26.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebUriShortener\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\appsettings.Development.json",
+              "RelativeToolTip": "WebUriShortener\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T10:24:47.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebUriShortener\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebUriShortener\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T10:05:23.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Views\\UrlManagement\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebUriShortener\\Views\\UrlManagement\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Views\\UrlManagement\\Index.cshtml",
+              "RelativeToolTip": "WebUriShortener\\Views\\UrlManagement\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T09:53:49.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UrlModel.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\BLL\\Models\\UrlModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\UrlModel.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\BLL\\Models\\UrlModel.cs",
+              "RelativeToolTip": "BLL\\Models\\UrlModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:52:15.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UrlManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\DAL\\Models\\UrlManagement.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\UrlManagement.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\DAL\\Models\\UrlManagement.cs",
+              "RelativeToolTip": "DAL\\Models\\UrlManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:52:06.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UrlManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Controllers\\UrlManagementController.cs",
+              "RelativeDocumentMoniker": "WebUriShortener\\Controllers\\UrlManagementController.cs",
+              "ToolTip": "C:\\Users\\Misha\\source\\Repos\\ShortenMVC\\WebUriShortener\\Controllers\\UrlManagementController.cs",
+              "RelativeToolTip": "WebUriShortener\\Controllers\\UrlManagementController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAywFsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:48:27.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1151,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

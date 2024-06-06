@@ -1,0 +1,24 @@
+﻿@model UrlVM
+
+<form method="post" enctype="multipart/form-data">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <div class="col-12">
+                <h1 class="text-center">Create URL</h1>
+            </div>
+            <div class="form-group">
+                <label asp-for="OriginalUrl"></label>
+                <input asp-for="OriginalUrl" class="form-control" name="OriginalUrl" />
+                <span asp-validation-for="OriginalUrl" class="text-danger"></span>
+            </div>
+            <div class="row mt-5">
+                <div class="col-6">
+                    <button type="submit" class="btn btn-dark form-control">Create</button>
+                </div>
+                <div class="col-6">
+                    <a asp-controller="UrlManagement" asp-action="Index" class="btn btn-secondary form-control">Back to list</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
